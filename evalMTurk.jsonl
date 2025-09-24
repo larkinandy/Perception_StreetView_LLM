@@ -1,0 +1,250 @@
+{"cat": "safe_crime", "image": "img57048.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":22}}
+{"cat": "safe_crime", "image": "img121277.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":29}}
+{"cat": "relaxing", "image": "img83203.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":14}}
+{"cat": "nature", "image": "img79846.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":28}}
+{"cat": "safe_walk", "image": "img34224.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":22}}
+{"cat": "safe_crime", "image": "img59330.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":23}}
+{"cat": "safe_crime", "image": "img90960.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "relaxing", "image": "img9291.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":33}}
+{"cat": "beauty", "image": "img65903.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img54514.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":28}}
+{"cat": "relaxing", "image": "img80474.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":28}}
+{"cat": "safe_crime", "image": "img13822.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":26}}
+{"cat": "relaxing", "image": "img77673.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":22}}
+{"cat": "safe_walk", "image": "img111340.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_walk", "image": "img82238.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img119262.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_crime", "image": "img97772.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":11}}
+{"cat": "nature", "image": "img44533.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":28}}
+{"cat": "beauty", "image": "img21724.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img117801.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":22}}
+{"cat": "safe_crime", "image": "img14600.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_walk", "image": "img28209.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":17}}
+{"cat": "safe_crime", "image": "img87591.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":14}}
+{"cat": "relaxing", "image": "img51507.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":22}}
+{"cat": "beauty", "image": "img19617.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":30}}
+{"cat": "relaxing", "image": "img4206.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":23}}
+{"cat": "relaxing", "image": "img28213.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":18}}
+{"cat": "safe_walk", "image": "img52895.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":31}}
+{"cat": "safe_walk", "image": "img73245.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":23}}
+{"cat": "safe_walk", "image": "img112230.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":30}}
+{"cat": "beauty", "image": "img18184.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":32}}
+{"cat": "nature", "image": "img82695.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":30}}
+{"cat": "nature", "image": "img19833.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img8082.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":23}}
+{"cat": "safe_walk", "image": "img31481.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":17}}
+{"cat": "relaxing", "image": "img41957.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":29}}
+{"cat": "relaxing", "image": "img56858.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img120249.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":10}}
+{"cat": "safe_walk", "image": "img77457.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":17}}
+{"cat": "nature", "image": "img35226.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":24}}
+{"cat": "safe_walk", "image": "img100803.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":27}}
+{"cat": "beauty", "image": "img87561.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":24}}
+{"cat": "relaxing", "image": "img21013.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":23}}
+{"cat": "relaxing", "image": "img107514.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":27}}
+{"cat": "safe_walk", "image": "img27196.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":20}}
+{"cat": "safe_crime", "image": "img47137.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img62591.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":30}}
+{"cat": "beauty", "image": "img52934.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":36}}
+{"cat": "safe_crime", "image": "img116433.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":27}}
+{"cat": "relaxing", "image": "img25980.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":24}}
+{"cat": "relaxing", "image": "img89324.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img10962.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":20}}
+{"cat": "beauty", "image": "img3728.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":27}}
+{"cat": "beauty", "image": "img105184.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":14}}
+{"cat": "nature", "image": "img105958.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":18}}
+{"cat": "safe_walk", "image": "img28124.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "nature", "image": "img16409.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":20}}
+{"cat": "safe_crime", "image": "img97552.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":27}}
+{"cat": "relaxing", "image": "img8680.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_walk", "image": "img28461.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":28}}
+{"cat": "beauty", "image": "img50403.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":24}}
+{"cat": "beauty", "image": "img20513.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":21}}
+{"cat": "safe_walk", "image": "img69001.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":12}}
+{"cat": "safe_crime", "image": "img32472.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":23}}
+{"cat": "beauty", "image": "img88683.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":14}}
+{"cat": "relaxing", "image": "img100770.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":25}}
+{"cat": "nature", "image": "img73743.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":23}}
+{"cat": "safe_walk", "image": "img101494.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":30}}
+{"cat": "nature", "image": "img10158.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":26}}
+{"cat": "beauty", "image": "img62917.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":30}}
+{"cat": "safe_walk", "image": "img58792.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":30}}
+{"cat": "beauty", "image": "img29707.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":25}}
+{"cat": "nature", "image": "img79809.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":23}}
+{"cat": "nature", "image": "img109811.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":19}}
+{"cat": "beauty", "image": "img97865.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_crime", "image": "img56029.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":31}}
+{"cat": "relaxing", "image": "img87991.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img111275.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":20}}
+{"cat": "safe_walk", "image": "img89707.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":32}}
+{"cat": "relaxing", "image": "img101784.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":21}}
+{"cat": "relaxing", "image": "img45911.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":20}}
+{"cat": "safe_walk", "image": "img65186.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "beauty", "image": "img119297.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":27}}
+{"cat": "nature", "image": "img114514.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":24}}
+{"cat": "safe_walk", "image": "img70368.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":28}}
+{"cat": "nature", "image": "img58493.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":28}}
+{"cat": "relaxing", "image": "img55901.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":19}}
+{"cat": "safe_crime", "image": "img79818.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":30}}
+{"cat": "safe_crime", "image": "img13193.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":26}}
+{"cat": "nature", "image": "img84534.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "beauty", "image": "img91215.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":13}}
+{"cat": "safe_crime", "image": "img116681.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img58767.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img64205.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":15}}
+{"cat": "safe_crime", "image": "img89514.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img7947.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":23}}
+{"cat": "safe_crime", "image": "img103015.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_crime", "image": "img96347.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":36}}
+{"cat": "nature", "image": "img46086.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":16}}
+{"cat": "relaxing", "image": "img93372.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":30}}
+{"cat": "beauty", "image": "img75863.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img110930.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":26}}
+{"cat": "relaxing", "image": "img74198.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":20}}
+{"cat": "relaxing", "image": "img67792.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":17}}
+{"cat": "safe_crime", "image": "img121141.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":23}}
+{"cat": "safe_crime", "image": "img58718.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "beauty", "image": "img29002.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":28}}
+{"cat": "safe_walk", "image": "img87082.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img104276.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img65161.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":19}}
+{"cat": "beauty", "image": "img63868.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":18}}
+{"cat": "nature", "image": "img56424.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":27}}
+{"cat": "relaxing", "image": "img27027.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":31}}
+{"cat": "beauty", "image": "img84884.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":15}}
+{"cat": "nature", "image": "img113544.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":24}}
+{"cat": "relaxing", "image": "img75374.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_walk", "image": "img59399.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":23}}
+{"cat": "nature", "image": "img65362.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img29557.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img107823.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":37}}
+{"cat": "nature", "image": "img13002.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_crime", "image": "img59004.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "relaxing", "image": "img1296.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":26}}
+{"cat": "nature", "image": "img26982.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":27}}
+{"cat": "relaxing", "image": "img8057.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":29}}
+{"cat": "beauty", "image": "img50391.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":20}}
+{"cat": "nature", "image": "img6140.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":28}}
+{"cat": "safe_walk", "image": "img49068.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "beauty", "image": "img10431.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":12}}
+{"cat": "safe_walk", "image": "img57362.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":11}}
+{"cat": "safe_walk", "image": "img120916.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_walk", "image": "img8418.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":29}}
+{"cat": "safe_walk", "image": "img15962.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "relaxing", "image": "img64481.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":24}}
+{"cat": "relaxing", "image": "img37001.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":24}}
+{"cat": "relaxing", "image": "img80244.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":29}}
+{"cat": "safe_crime", "image": "img78855.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":16}}
+{"cat": "relaxing", "image": "img105276.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img86850.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img93872.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":26}}
+{"cat": "beauty", "image": "img111102.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":17}}
+{"cat": "relaxing", "image": "img73452.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":25}}
+{"cat": "beauty", "image": "img83807.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":22}}
+{"cat": "safe_crime", "image": "img18808.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":26}}
+{"cat": "beauty", "image": "img21010.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":29}}
+{"cat": "safe_crime", "image": "img102701.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "beauty", "image": "img116813.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":24}}
+{"cat": "beauty", "image": "img112341.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":26}}
+{"cat": "relaxing", "image": "img7110.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":21}}
+{"cat": "safe_crime", "image": "img113485.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_crime", "image": "img47952.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":21}}
+{"cat": "beauty", "image": "img16002.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img30033.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":17}}
+{"cat": "safe_walk", "image": "img114552.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":18}}
+{"cat": "safe_walk", "image": "img79826.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":28}}
+{"cat": "nature", "image": "img100153.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img2442.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":35}}
+{"cat": "beauty", "image": "img79038.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":20}}
+{"cat": "safe_crime", "image": "img69539.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":21}}
+{"cat": "safe_walk", "image": "img113787.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":23}}
+{"cat": "beauty", "image": "img49710.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img111721.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":21}}
+{"cat": "nature", "image": "img108980.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":26}}
+{"cat": "safe_crime", "image": "img66866.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":17}}
+{"cat": "relaxing", "image": "img30863.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_walk", "image": "img47514.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "beauty", "image": "img107264.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":26}}
+{"cat": "relaxing", "image": "img24499.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":25}}
+{"cat": "nature", "image": "img92280.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":26}}
+{"cat": "safe_walk", "image": "img51060.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":27}}
+{"cat": "beauty", "image": "img107301.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":31}}
+{"cat": "beauty", "image": "img75007.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":35}}
+{"cat": "safe_walk", "image": "img114142.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":27}}
+{"cat": "safe_walk", "image": "img92996.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":16}}
+{"cat": "beauty", "image": "img35576.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":29}}
+{"cat": "beauty", "image": "img2711.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":30}}
+{"cat": "safe_walk", "image": "img76884.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":19}}
+{"cat": "nature", "image": "img95750.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":26}}
+{"cat": "relaxing", "image": "img81059.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img37191.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":24}}
+{"cat": "safe_crime", "image": "img30244.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":22}}
+{"cat": "nature", "image": "img88938.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img91054.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":24}}
+{"cat": "nature", "image": "img107136.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":30}}
+{"cat": "safe_crime", "image": "img3863.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":22}}
+{"cat": "nature", "image": "img83603.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":20}}
+{"cat": "nature", "image": "img43195.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":17}}
+{"cat": "safe_crime", "image": "img60006.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":17}}
+{"cat": "beauty", "image": "img61099.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":23}}
+{"cat": "beauty", "image": "img94930.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":28}}
+{"cat": "beauty", "image": "img51915.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":28}}
+{"cat": "beauty", "image": "img106100.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":26}}
+{"cat": "relaxing", "image": "img48463.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_crime", "image": "img38662.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":26}}
+{"cat": "safe_crime", "image": "img110157.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img71653.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":25}}
+{"cat": "relaxing", "image": "img61571.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":30}}
+{"cat": "safe_walk", "image": "img43977.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":30}}
+{"cat": "safe_crime", "image": "img109692.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":24}}
+{"cat": "relaxing", "image": "img111540.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":32}}
+{"cat": "safe_walk", "image": "img10791.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "relaxing", "image": "img50809.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img18508.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":24}}
+{"cat": "beauty", "image": "img41742.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":26}}
+{"cat": "nature", "image": "img71943.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":26}}
+{"cat": "relaxing", "image": "img113511.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":19}}
+{"cat": "safe_crime", "image": "img74831.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":26}}
+{"cat": "relaxing", "image": "img97792.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":37}}
+{"cat": "safe_crime", "image": "img90061.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":22}}
+{"cat": "relaxing", "image": "img42791.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":26}}
+{"cat": "beauty", "image": "img48278.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img24982.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img34040.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":28}}
+{"cat": "relaxing", "image": "img26237.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_walk", "image": "img103214.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_walk", "image": "img60784.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":27}}
+{"cat": "nature", "image": "img67380.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":25}}
+{"cat": "beauty", "image": "img6989.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img72821.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img51020.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":32}}
+{"cat": "nature", "image": "img70153.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":29}}
+{"cat": "beauty", "image": "img38344.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":31}}
+{"cat": "nature", "image": "img115181.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":20}}
+{"cat": "safe_walk", "image": "img107721.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img36891.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":16}}
+{"cat": "safe_walk", "image": "img32120.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":17}}
+{"cat": "beauty", "image": "img93439.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":31}}
+{"cat": "relaxing", "image": "img104322.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":28}}
+{"cat": "relaxing", "image": "img2923.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":26}}
+{"cat": "beauty", "image": "img37395.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":27}}
+{"cat": "nature", "image": "img18732.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":34}}
+{"cat": "safe_crime", "image": "img61422.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":23}}
+{"cat": "nature", "image": "img37282.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"left ","distance":24}}
+{"cat": "safe_walk", "image": "img114257.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img73535.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "nature", "image": "img5705.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":29}}
+{"cat": "beauty", "image": "img95970.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"right","distance":16}}
+{"cat": "beauty", "image": "img45640.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":25}}
+{"cat": "relaxing", "image": "img120520.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"right","distance":21}}
+{"cat": "safe_walk", "image": "img99331.jpg", "query": "which street is more safe for walking?            ", "label": {"direction":"right","distance":26}}
+{"cat": "safe_crime", "image": "img86743.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":26}}
+{"cat": "safe_crime", "image": "img116199.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":18}}
+{"cat": "relaxing", "image": "img81867.jpg", "query": "Which street is more relaxing?                    ", "label": {"direction":"left ","distance":25}}
+{"cat": "beauty", "image": "img99817.jpg", "query": "Which street is more beautiful?                   ", "label": {"direction":"left ","distance":32}}
+{"cat": "safe_crime", "image": "img100280.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":25}}
+{"cat": "safe_crime", "image": "img67379.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":25}}
+{"cat": "safe_crime", "image": "img105755.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"left ","distance":29}}
+{"cat": "safe_crime", "image": "img37320.jpg", "query": "Which street is more safe from violence or crime? ", "label": {"direction":"right","distance":28}}
+{"cat": "nature", "image": "img114035.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":21}}
+{"cat": "nature", "image": "img3905.jpg", "query": "Which street has a higher quality of nature?      ", "label": {"direction":"right","distance":19}}
