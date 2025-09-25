@@ -27,20 +27,20 @@ class SaveCheckpointEveryNBatches(L.Callback):
         # if the batch number is divisible by 1000, save the model
         if self.batchCount % self.everyNBatches == 0:
             timestamp = time.strftime("%Y%m%d-%H%M%S")
-            save_dir = self.result_path / f"checkpoint_{timestamp}_batch{self.batchCount}"
-            save_dir.mkdir(parents=True, exist_ok=True)
-            pl_module.processor.save_pretrained(save_dir)
-            pl_module.model.save_pretrained(save_dir)
-            print(f"[Checkpoint] Saved at batch {self.batchCount} → {save_dir}")
+            saveDir = self.resultPath / f"checkpoint_{timestamp}_batch{self.batchCount}"
+            saveDir.mkdir(parents=True, exist_ok=True)
+            pl_module.processor.save_pretrained(saveDir)
+            pl_module.model.save_pretrained(saveDir)
+            print(f"[Checkpoint] Saved at batch {self.batchCount} → {saveDir}")
 
     # what the custom save class does after the trainer has finished training
     # inerhited from the Lightning library
     # see https://lightning.ai/docs/pytorch/stable/extensions/callbacks.html for inherited params
     def on_train_end(self, trainer, pl_module):
-        save_dir = self.result_path / "final"
-        save_dir.mkdir(parents=True, exist_ok=True)
-        pl_module.processor.save_pretrained(save_dir)
-        pl_module.model.save_pretrained(save_dir)
-        print(f"[Final Checkpoint] Saved at training end → {save_dir}")
+        saveDir = self.result_path / "final"
+        saveDir.mkdir(parents=True, exist_ok=True)
+        pl_module.processor.save_pretrained(saveDir)
+        pl_module.model.save_pretrained(saveDir)
+        print(f"[Final Checkpoint] Saved at training end → {saveDir}")
 
 # end of CustomCheckpoint.py
