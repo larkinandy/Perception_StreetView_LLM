@@ -25,7 +25,7 @@ class SaveCheckpointEveryNBatches(L.Callback):
     def on_train_batch_end(self, trainer, pl_module, outputs, batch, batch_idx):
         self.batchCount += 1
         # if the batch number is divisible by 1000, save the model
-        if self.batch_count % self.everyNBatches == 0:
+        if self.batchCount % self.everyNBatches == 0:
             timestamp = time.strftime("%Y%m%d-%H%M%S")
             save_dir = self.result_path / f"checkpoint_{timestamp}_batch{self.batchCount}"
             save_dir.mkdir(parents=True, exist_ok=True)
