@@ -17,21 +17,21 @@ class SaveCheckpointEveryNBatches(L.Callback):
     def __init__(self, resultPath, everyNBatches=100):
         self.resultPath = Path(resultPath)
         self.everyNBatches = everyNBatches
-        self.batch_count = 0
+        self.batchCount = 0
 
     # what the custom save class does after the trainer has completed one batch
     # inerhited from the Lightning library
     # see https://lightning.ai/docs/pytorch/stable/extensions/callbacks.html for inherited params
     def on_train_batch_end(self, trainer, pl_module, outputs, batch, batch_idx):
-        self.batch_count += 1
+        self.batchCount += 1
         # if the batch number is divisible by 1000, save the model
         if self.batch_count % self.everyNBatches == 0:
             timestamp = time.strftime("%Y%m%d-%H%M%S")
-            save_dir = self.result_path / f"checkpoint_{timestamp}_batch{self.batch_count}"
+            save_dir = self.result_path / f"checkpoint_{timestamp}_batch{self.batchCount}"
             save_dir.mkdir(parents=True, exist_ok=True)
             pl_module.processor.save_pretrained(save_dir)
             pl_module.model.save_pretrained(save_dir)
-            print(f"[Checkpoint] Saved at batch {self.batch_count} → {save_dir}")
+            print(f"[Checkpoint] Saved at batch {self.batchCount} → {save_dir}")
 
     # what the custom save class does after the trainer has finished training
     # inerhited from the Lightning library
