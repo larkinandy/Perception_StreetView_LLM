@@ -1,8 +1,4 @@
-
-
-
-### TODO: Insert Summary Figure ###
-
+<img src = "/images/VectorExample.jpg" width="800">
 
 # Perception_StreetView_LLM
 Explore the benefits of LLMs in street view perception studies
