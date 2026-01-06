@@ -23,6 +23,7 @@ Files are divided into two folders, with each folder corresponding to a unique a
 - **Funding** - [NIH/NIEHS](https://www.niehs.nih.gov/), R01HL150119
 - **Google Street View** - https://www.google.com/streetview/
 - **Spatial Health Lab** - https://health.oregonstate.edu/research/spatial-health
+- **Qwen2.5VL** - https://arxiv.org/abs/2502.13923
   
 **Related Publications**
 - [Developing Nationwide Estimates of Built Environment Quality Characteristics Using Street-View Imagery and Computer Vision](https://pubs.acs.org/doi/full/10.1021/acs.est.5c00966)
