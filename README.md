@@ -19,6 +19,7 @@ Files are divided into two folders, with each folder corresponding to a unique a
 - **[explanatory_AI](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/deep_learning)** - prompt models to explain their rationale and identify prevailing topics <br>
 
 **External Links**
+- **Publication** (**TODO**: add publication once available)
 - **Funding** - [NIH/NIEHS](https://www.niehs.nih.gov/), R01HL150119
 - **Google Street View** - https://www.google.com/streetview/
 - **Spatial Health Lab** - https://health.oregonstate.edu/research/spatial-health
