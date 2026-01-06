@@ -7,7 +7,7 @@ Explore the benefits of LLMs in street view perception studies
 **Affiliation:** [Oregon State University, College of Health](https://health.oregonstate.edu/) <br>
 
 **Summary** <br>
-This github repository contains python scripts and custom classes to explore the benefits of using LLMs in street view perception studies. 
+This GitHub repo contains python scripts and custom classes to explore the benefits of using LLMs in street view perception studies. 
 
 **Why LLMs** <br>
 Large Language Models (including Large Vision Lanauge Models) can be prompted to provide justifications/rationales for model outputs. This functionality can advance our ability to identify the underlying causes for why some environments are perceived as being more desireable (e.g. safety, relaxing, beautiful) than others. 
