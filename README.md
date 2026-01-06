@@ -15,7 +15,7 @@ Large Language Models (including Large Vision Lanauge Models) can be prompted to
 **Repository Structure** <br>
 Files are divided into two folders, with each folder corresponding to a unique aim of the study
 
-- **[fine_tuning](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/database_setup)** - fine tune models using a [previously published training dataset](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/main/mturk_perceptions) <br>
+- **[fineTune](https://github.com/larkinandy/Perception_StreetView_LLM/tree/main/fineTune)** - fine tune models using a [previously published training dataset](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/main/mturk_perceptions) <br>
 - **[explanatory_AI](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/deep_learning)** - prompt models to explain their rationale and identify prevailing topics <br>
 
 **External Links**
