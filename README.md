@@ -1,4 +1,4 @@
-<img src = "/images/VectorExample.jpg" width="800">
+<img src = "/images/ScoreRank@4x.png" width="1024">
 
 # Perception_StreetView_LLM
 Explore the benefits of LLMs in street view perception studies
@@ -11,6 +11,8 @@ This GitHub repo contains python scripts and custom classes to explore the benef
 
 **Why LLMs** <br>
 Large Language Models (including Large Vision Lanauge Models) can be prompted to provide justifications/rationales for model outputs. This functionality can advance our ability to identify the underlying causes for why some environments are perceived as being more desireable (e.g. safety, relaxing, beautiful) than others. 
+
+<img src = "/images/Artboard 2@4x.png" width="1024">
 
 **Repository Structure** <br>
 Files are divided into two folders, with each folder corresponding to a unique aim of the study
