@@ -1,4 +1,4 @@
-<img src = "/images/VectorExample.jpg" width="800">
+<img src = "/images/ScoreRank@4x.png" width="1024">
 
 # Perception_StreetView_LLM
 Explore the benefits of LLMs in street view perception studies
@@ -12,18 +12,21 @@ This GitHub repo contains python scripts and custom classes to explore the benef
 **Why LLMs** <br>
 Large Language Models (including Large Vision Lanauge Models) can be prompted to provide justifications/rationales for model outputs. This functionality can advance our ability to identify the underlying causes for why some environments are perceived as being more desireable (e.g. safety, relaxing, beautiful) than others. 
 
+<img src = "/images/Artboard 2@4x.png" width="1024">
+
 **Repository Structure** <br>
 Files are divided into two folders, with each folder corresponding to a unique aim of the study
 
 - **[fineTune](https://github.com/larkinandy/Perception_StreetView_LLM/tree/main/fineTune)** - fine tune models using a [previously published training dataset](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/main/mturk_perceptions) <br>
-- **[explanatory_AI](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/deep_learning)** - prompt models to explain their rationale and identify prevailing topics <br>
+- **[explanatoryAI](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/deep_learning)** - use topic modeling to analyze LLM rationale <br>
 
 **External Links**
-- **Publication** (**TODO**: add publication once available)
-- **Funding** - [NIH/NIEHS](https://www.niehs.nih.gov/), R01HL150119
-- **Google Street View** - https://www.google.com/streetview/
-- **Spatial Health Lab** - https://health.oregonstate.edu/research/spatial-health
-- **Qwen2.5VL** - https://arxiv.org/abs/2502.13923
+- **[Publication TODO: add publication once available**])
+- **[Funding: NIH/NIEHS, R01HL150119](https://www.niehs.nih.gov/)**
+- **[Google Street View](https://www.google.com/streetview/)**
+- **[Spatial Health Lab](https://health.oregonstate.edu/research/spatial-health)**
+- **[Top2Vec](https://github.com/ddangelov/Top2Vec)**  
+- **[Qwen2.5VL](https://huggingface.co/collections/Qwen/qwen25-vl)** 
   
 **Related Publications**
 - [Developing Nationwide Estimates of Built Environment Quality Characteristics Using Street-View Imagery and Computer Vision](https://pubs.acs.org/doi/full/10.1021/acs.est.5c00966)
