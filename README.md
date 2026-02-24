@@ -18,7 +18,7 @@ Large Language Models (including Large Vision Lanauge Models) can be prompted to
 Files are divided into two folders, with each folder corresponding to a unique aim of the study
 
 - **[fineTune](https://github.com/larkinandy/Perception_StreetView_LLM/tree/main/fineTune)** - fine tune models using a [previously published training dataset](https://github.com/larkinandy/NationalStreetViewPerceptions/tree/main/mturk_perceptions) <br>
-- **[explanatoryAI](https://github.com/larkinandy/ChildrensHealthSocialMediaASP3IRE/tree/master/deep_learning)** - use topic modeling to analyze LLM rationale <br>
+- **[explanatoryAI](https://github.com/larkinandy/Perception_StreetView_LLM/tree/main/explanatoryAI)** - use topic modeling to analyze LLM rationale <br>
 
 **External Links**
 - **[Publication TODO: add publication once available**])
