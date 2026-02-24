@@ -1,4 +1,4 @@
-<img src = "https://github.com/larkinandy/Perception_StreetView_LLM/blob/main/images/Topics%404x.png" width="1024">
+<img src = "https://github.com/larkinandy/Perception_StreetView_LLM/blob/main/images/ZoneTopics copy@4x.png" width="1024">
 
 
 Use topic modeling to analyze LLM rationale 
