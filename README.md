@@ -1,4 +1,4 @@
-<img src = "/images/ScoreRank@4x.png" width="1024">
+<img src = "/images/Zoning@4x.png" width="1024">
 
 # Perception_StreetView_LLM
 Explore the benefits of LLMs in street view perception studies
